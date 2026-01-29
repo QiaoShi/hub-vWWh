@@ -30,7 +30,10 @@
 <img width="2560" height="1332" alt="image" src="https://github.com/user-attachments/assets/406b19a1-e8fc-4e13-8a0c-32f0ff98de1c" />
 在nlp中指较少被用到的词语 , 但是种类又极其多 , 称为长尾词
 
+---
+
 + 停用词(Stop word) : 指在信息检索、搜索引擎和自然语言处理（NLP）中，为了节省存储空间、提高搜索效率及准确性，而自动过滤的频繁出现的低信息量词汇。它们通常是冠词、介词、连词、助动词或语气词，如“的”、“是”、“on”、“the”等。
+---
 
 + TF-IDF算法 (term frequency–inverse document frequency) :
 
