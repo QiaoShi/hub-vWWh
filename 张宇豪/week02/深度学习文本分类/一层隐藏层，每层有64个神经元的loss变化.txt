@@ -1,0 +1,90 @@
+Batch 个数 0, 当前Batch Loss: 2.4912266731262207
+Batch 个数 50, 当前Batch Loss: 2.4732577800750732
+Batch 个数 100, 当前Batch Loss: 2.4711501598358154
+Batch 个数 150, 当前Batch Loss: 2.4506852626800537
+Batch 个数 200, 当前Batch Loss: 2.391735553741455
+Batch 个数 250, 当前Batch Loss: 2.3785130977630615
+Batch 个数 300, 当前Batch Loss: 2.337357997894287
+Batch 个数 350, 当前Batch Loss: 2.3327443599700928
+Epoch [1/10], Loss: 2.4142]
+Batch 个数 0, 当前Batch Loss: 2.298720598220825
+Batch 个数 50, 当前Batch Loss: 2.2782018184661865
+Batch 个数 100, 当前Batch Loss: 2.2521846294403076
+Batch 个数 150, 当前Batch Loss: 2.2324798107147217
+Batch 个数 200, 当前Batch Loss: 2.1292672157287598
+Batch 个数 250, 当前Batch Loss: 2.1544888019561768
+Batch 个数 300, 当前Batch Loss: 2.1642231941223145
+Batch 个数 350, 当前Batch Loss: 2.018056631088257
+Epoch [2/10], Loss: 2.1911]
+Batch 个数 0, 当前Batch Loss: 2.080829620361328
+Batch 个数 50, 当前Batch Loss: 1.9620684385299683
+Batch 个数 100, 当前Batch Loss: 1.9255084991455078
+Batch 个数 150, 当前Batch Loss: 2.0537753105163574
+Batch 个数 200, 当前Batch Loss: 1.86928391456604
+Batch 个数 250, 当前Batch Loss: 1.7585490942001343
+Batch 个数 300, 当前Batch Loss: 1.7960723638534546
+Batch 个数 350, 当前Batch Loss: 1.7929208278656006
+Epoch [3/10], Loss: 1.8702]
+Batch 个数 0, 当前Batch Loss: 1.6984628438949585
+Batch 个数 50, 当前Batch Loss: 1.5053800344467163
+Batch 个数 100, 当前Batch Loss: 1.3767421245574951
+Batch 个数 150, 当前Batch Loss: 1.5472205877304077
+Batch 个数 200, 当前Batch Loss: 1.9856657981872559
+Batch 个数 250, 当前Batch Loss: 1.5408976078033447
+Batch 个数 300, 当前Batch Loss: 1.6489659547805786
+Batch 个数 350, 当前Batch Loss: 1.5039223432540894
+Epoch [4/10], Loss: 1.4947]
+Batch 个数 0, 当前Batch Loss: 1.5056432485580444
+Batch 个数 50, 当前Batch Loss: 1.4051162004470825
+Batch 个数 100, 当前Batch Loss: 1.0601308345794678
+Batch 个数 150, 当前Batch Loss: 1.0168342590332031
+Batch 个数 200, 当前Batch Loss: 1.0829280614852905
+Batch 个数 250, 当前Batch Loss: 1.3226701021194458
+Batch 个数 300, 当前Batch Loss: 1.3291516304016113
+Batch 个数 350, 当前Batch Loss: 1.3070409297943115
+Epoch [5/10], Loss: 1.1764]
+Batch 个数 0, 当前Batch Loss: 0.9789937138557434
+Batch 个数 50, 当前Batch Loss: 1.0551416873931885
+Batch 个数 100, 当前Batch Loss: 1.0552189350128174
+Batch 个数 150, 当前Batch Loss: 1.1637340784072876
+Batch 个数 200, 当前Batch Loss: 0.960637092590332
+Batch 个数 250, 当前Batch Loss: 0.9489811062812805
+Batch 个数 300, 当前Batch Loss: 1.081162452697754
+Batch 个数 350, 当前Batch Loss: 0.9631679654121399
+Epoch [6/10], Loss: 0.9548]
+Batch 个数 0, 当前Batch Loss: 1.0219733715057373
+Batch 个数 50, 当前Batch Loss: 0.6050704717636108
+Batch 个数 100, 当前Batch Loss: 1.0463099479675293
+Batch 个数 150, 当前Batch Loss: 0.7534906268119812
+Batch 个数 200, 当前Batch Loss: 0.8023975491523743
+Batch 个数 250, 当前Batch Loss: 1.065375566482544
+Batch 个数 300, 当前Batch Loss: 0.8214002251625061
+Batch 个数 350, 当前Batch Loss: 0.7399210929870605
+Epoch [7/10], Loss: 0.8064]
+Batch 个数 0, 当前Batch Loss: 0.6382725834846497
+Batch 个数 50, 当前Batch Loss: 0.5118125081062317
+Batch 个数 100, 当前Batch Loss: 0.9263703227043152
+Batch 个数 150, 当前Batch Loss: 0.5820338129997253
+Batch 个数 200, 当前Batch Loss: 0.49776142835617065
+Batch 个数 250, 当前Batch Loss: 0.7883453965187073
+Batch 个数 300, 当前Batch Loss: 0.7269797325134277
+Batch 个数 350, 当前Batch Loss: 0.6411506533622742
+Epoch [8/10], Loss: 0.7060]
+Batch 个数 0, 当前Batch Loss: 0.6084530353546143
+Batch 个数 50, 当前Batch Loss: 0.6392262578010559
+Batch 个数 100, 当前Batch Loss: 0.5431352257728577
+Batch 个数 150, 当前Batch Loss: 0.8520078659057617
+Batch 个数 200, 当前Batch Loss: 0.4090085029602051
+Batch 个数 250, 当前Batch Loss: 0.4614678919315338
+Batch 个数 300, 当前Batch Loss: 0.5403681397438049
+Batch 个数 350, 当前Batch Loss: 0.7040241956710815
+Epoch [9/10], Loss: 0.6342]
+Batch 个数 0, 当前Batch Loss: 0.6467885971069336
+Batch 个数 50, 当前Batch Loss: 0.5707474946975708
+Batch 个数 100, 当前Batch Loss: 0.6333299279212952
+Batch 个数 150, 当前Batch Loss: 0.565474271774292
+Batch 个数 200, 当前Batch Loss: 0.6048235893249512
+Batch 个数 250, 当前Batch Loss: 0.5003156065940857
+Batch 个数 300, 当前Batch Loss: 0.5979307889938354
+Batch 个数 350, 当前Batch Loss: 0.9801495671272278
+Epoch [10/10], Loss: 0.5804]

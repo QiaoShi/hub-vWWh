@@ -1,0 +1,90 @@
+Batch 个数 0, 当前Batch Loss: 2.4490950107574463
+Batch 个数 50, 当前Batch Loss: 2.449939727783203
+Batch 个数 100, 当前Batch Loss: 2.4717838764190674
+Batch 个数 150, 当前Batch Loss: 2.4314684867858887
+Batch 个数 200, 当前Batch Loss: 2.4354753494262695
+Batch 个数 250, 当前Batch Loss: 2.4433162212371826
+Batch 个数 300, 当前Batch Loss: 2.396230936050415
+Batch 个数 350, 当前Batch Loss: 2.4012038707733154
+Epoch [1/10], Loss: 2.4357]
+Batch 个数 0, 当前Batch Loss: 2.4245729446411133
+Batch 个数 50, 当前Batch Loss: 2.430821418762207
+Batch 个数 100, 当前Batch Loss: 2.4360766410827637
+Batch 个数 150, 当前Batch Loss: 2.4070043563842773
+Batch 个数 200, 当前Batch Loss: 2.357485294342041
+Batch 个数 250, 当前Batch Loss: 2.3731305599212646
+Batch 个数 300, 当前Batch Loss: 2.415943145751953
+Batch 个数 350, 当前Batch Loss: 2.370640277862549
+Epoch [2/10], Loss: 2.3811]
+Batch 个数 0, 当前Batch Loss: 2.376049041748047
+Batch 个数 50, 当前Batch Loss: 2.370727062225342
+Batch 个数 100, 当前Batch Loss: 2.3167366981506348
+Batch 个数 150, 当前Batch Loss: 2.3606979846954346
+Batch 个数 200, 当前Batch Loss: 2.322908401489258
+Batch 个数 250, 当前Batch Loss: 2.3320231437683105
+Batch 个数 300, 当前Batch Loss: 2.249196767807007
+Batch 个数 350, 当前Batch Loss: 2.3031651973724365
+Epoch [3/10], Loss: 2.3210]
+Batch 个数 0, 当前Batch Loss: 2.290771722793579
+Batch 个数 50, 当前Batch Loss: 2.248112916946411
+Batch 个数 100, 当前Batch Loss: 2.2096023559570312
+Batch 个数 150, 当前Batch Loss: 2.2761104106903076
+Batch 个数 200, 当前Batch Loss: 2.221747398376465
+Batch 个数 250, 当前Batch Loss: 2.1166398525238037
+Batch 个数 300, 当前Batch Loss: 2.2565081119537354
+Batch 个数 350, 当前Batch Loss: 2.151686429977417
+Epoch [4/10], Loss: 2.2153]
+Batch 个数 0, 当前Batch Loss: 2.1539690494537354
+Batch 个数 50, 当前Batch Loss: 2.151885509490967
+Batch 个数 100, 当前Batch Loss: 2.077008008956909
+Batch 个数 150, 当前Batch Loss: 1.9065815210342407
+Batch 个数 200, 当前Batch Loss: 1.915176510810852
+Batch 个数 250, 当前Batch Loss: 1.8815608024597168
+Batch 个数 300, 当前Batch Loss: 1.800188422203064
+Batch 个数 350, 当前Batch Loss: 1.8288064002990723
+Epoch [5/10], Loss: 1.9726]
+Batch 个数 0, 当前Batch Loss: 1.720524787902832
+Batch 个数 50, 当前Batch Loss: 1.991887092590332
+Batch 个数 100, 当前Batch Loss: 1.5115472078323364
+Batch 个数 150, 当前Batch Loss: 1.6433390378952026
+Batch 个数 200, 当前Batch Loss: 1.3627744913101196
+Batch 个数 250, 当前Batch Loss: 1.4702422618865967
+Batch 个数 300, 当前Batch Loss: 1.6906670331954956
+Batch 个数 350, 当前Batch Loss: 1.5833539962768555
+Epoch [6/10], Loss: 1.5756]
+Batch 个数 0, 当前Batch Loss: 1.1983990669250488
+Batch 个数 50, 当前Batch Loss: 1.352745532989502
+Batch 个数 100, 当前Batch Loss: 1.323840618133545
+Batch 个数 150, 当前Batch Loss: 1.1344006061553955
+Batch 个数 200, 当前Batch Loss: 0.8564255833625793
+Batch 个数 250, 当前Batch Loss: 1.025092601776123
+Batch 个数 300, 当前Batch Loss: 1.0452848672866821
+Batch 个数 350, 当前Batch Loss: 1.1606040000915527
+Epoch [7/10], Loss: 1.2236]
+Batch 个数 0, 当前Batch Loss: 0.8122678399085999
+Batch 个数 50, 当前Batch Loss: 1.0848135948181152
+Batch 个数 100, 当前Batch Loss: 1.190817952156067
+Batch 个数 150, 当前Batch Loss: 0.8570618629455566
+Batch 个数 200, 当前Batch Loss: 0.8442893624305725
+Batch 个数 250, 当前Batch Loss: 0.6989390850067139
+Batch 个数 300, 当前Batch Loss: 0.93614262342453
+Batch 个数 350, 当前Batch Loss: 0.8410019874572754
+Epoch [8/10], Loss: 0.9541]
+Batch 个数 0, 当前Batch Loss: 1.16265070438385
+Batch 个数 50, 当前Batch Loss: 0.5333558917045593
+Batch 个数 100, 当前Batch Loss: 0.6352835893630981
+Batch 个数 150, 当前Batch Loss: 0.8145991563796997
+Batch 个数 200, 当前Batch Loss: 0.6168641448020935
+Batch 个数 250, 当前Batch Loss: 0.9064509272575378
+Batch 个数 300, 当前Batch Loss: 0.6623178720474243
+Batch 个数 350, 当前Batch Loss: 0.7670290470123291
+Epoch [9/10], Loss: 0.7603]
+Batch 个数 0, 当前Batch Loss: 0.641025722026825
+Batch 个数 50, 当前Batch Loss: 0.8017933964729309
+Batch 个数 100, 当前Batch Loss: 0.695382833480835
+Batch 个数 150, 当前Batch Loss: 0.5826030969619751
+Batch 个数 200, 当前Batch Loss: 0.7856964468955994
+Batch 个数 250, 当前Batch Loss: 0.47297582030296326
+Batch 个数 300, 当前Batch Loss: 0.5417776703834534
+Batch 个数 350, 当前Batch Loss: 0.5231492519378662
+Epoch [10/10], Loss: 0.6341]
