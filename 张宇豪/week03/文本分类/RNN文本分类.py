@@ -38,7 +38,7 @@ class CharRNNDataset(Dataset):
         indices += [0] * (self.max_len - len(indices))
         return torch.tensor(indices, dtype=torch.long), self.labels[idx]
 
-# --- NEW LSTM Model Class ---
+# --- NEW RNN Model Class ---
 class RNNClassifier(nn.Module):
     def __init__(self, vocab_size, embedding_dim, hidden_dim, output_dim):
         super(RNNClassifier, self).__init__()
