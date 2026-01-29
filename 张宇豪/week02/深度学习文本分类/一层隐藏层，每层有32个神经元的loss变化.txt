@@ -1,0 +1,90 @@
+Batch 个数 0, 当前Batch Loss: 2.4630069732666016
+Batch 个数 50, 当前Batch Loss: 2.4703383445739746
+Batch 个数 100, 当前Batch Loss: 2.4420573711395264
+Batch 个数 150, 当前Batch Loss: 2.4236583709716797
+Batch 个数 200, 当前Batch Loss: 2.3589670658111572
+Batch 个数 250, 当前Batch Loss: 2.3331193923950195
+Batch 个数 300, 当前Batch Loss: 2.337488889694214
+Batch 个数 350, 当前Batch Loss: 2.299628257751465
+Epoch [1/10], Loss: 2.3970]
+Batch 个数 0, 当前Batch Loss: 2.3281710147857666
+Batch 个数 50, 当前Batch Loss: 2.273841381072998
+Batch 个数 100, 当前Batch Loss: 2.228748321533203
+Batch 个数 150, 当前Batch Loss: 2.1749649047851562
+Batch 个数 200, 当前Batch Loss: 2.327561378479004
+Batch 个数 250, 当前Batch Loss: 2.1594903469085693
+Batch 个数 300, 当前Batch Loss: 2.0870306491851807
+Batch 个数 350, 当前Batch Loss: 2.1515913009643555
+Epoch [2/10], Loss: 2.1923]
+Batch 个数 0, 当前Batch Loss: 2.0938560962677
+Batch 个数 50, 当前Batch Loss: 1.981459617614746
+Batch 个数 100, 当前Batch Loss: 1.9004905223846436
+Batch 个数 150, 当前Batch Loss: 2.0384724140167236
+Batch 个数 200, 当前Batch Loss: 1.9888432025909424
+Batch 个数 250, 当前Batch Loss: 1.7164727449417114
+Batch 个数 300, 当前Batch Loss: 1.6744507551193237
+Batch 个数 350, 当前Batch Loss: 1.7978434562683105
+Epoch [3/10], Loss: 1.8747]
+Batch 个数 0, 当前Batch Loss: 1.805099368095398
+Batch 个数 50, 当前Batch Loss: 1.5750623941421509
+Batch 个数 100, 当前Batch Loss: 1.6010645627975464
+Batch 个数 150, 当前Batch Loss: 1.4748700857162476
+Batch 个数 200, 当前Batch Loss: 1.5359545946121216
+Batch 个数 250, 当前Batch Loss: 1.2197582721710205
+Batch 个数 300, 当前Batch Loss: 1.257150411605835
+Batch 个数 350, 当前Batch Loss: 1.3461159467697144
+Epoch [4/10], Loss: 1.4860]
+Batch 个数 0, 当前Batch Loss: 1.1989200115203857
+Batch 个数 50, 当前Batch Loss: 1.4098056554794312
+Batch 个数 100, 当前Batch Loss: 1.1787406206130981
+Batch 个数 150, 当前Batch Loss: 1.2991502285003662
+Batch 个数 200, 当前Batch Loss: 1.2144191265106201
+Batch 个数 250, 当前Batch Loss: 1.289178729057312
+Batch 个数 300, 当前Batch Loss: 0.9452780485153198
+Batch 个数 350, 当前Batch Loss: 1.2055695056915283
+Epoch [5/10], Loss: 1.1635]
+Batch 个数 0, 当前Batch Loss: 1.0836576223373413
+Batch 个数 50, 当前Batch Loss: 0.896852433681488
+Batch 个数 100, 当前Batch Loss: 0.9696092009544373
+Batch 个数 150, 当前Batch Loss: 1.1676697731018066
+Batch 个数 200, 当前Batch Loss: 0.8368637561798096
+Batch 个数 250, 当前Batch Loss: 1.0081769227981567
+Batch 个数 300, 当前Batch Loss: 0.9651567935943604
+Batch 个数 350, 当前Batch Loss: 1.154539704322815
+Epoch [6/10], Loss: 0.9459]
+Batch 个数 0, 当前Batch Loss: 1.029300570487976
+Batch 个数 50, 当前Batch Loss: 1.033445119857788
+Batch 个数 100, 当前Batch Loss: 0.7869275808334351
+Batch 个数 150, 当前Batch Loss: 0.5957809090614319
+Batch 个数 200, 当前Batch Loss: 1.058808445930481
+Batch 个数 250, 当前Batch Loss: 0.8005347847938538
+Batch 个数 300, 当前Batch Loss: 0.7560431957244873
+Batch 个数 350, 当前Batch Loss: 0.8724957704544067
+Epoch [7/10], Loss: 0.8033]
+Batch 个数 0, 当前Batch Loss: 0.9634783267974854
+Batch 个数 50, 当前Batch Loss: 0.6788152456283569
+Batch 个数 100, 当前Batch Loss: 0.6921420693397522
+Batch 个数 150, 当前Batch Loss: 0.571645975112915
+Batch 个数 200, 当前Batch Loss: 0.6677701473236084
+Batch 个数 250, 当前Batch Loss: 0.6369638442993164
+Batch 个数 300, 当前Batch Loss: 0.44005048274993896
+Batch 个数 350, 当前Batch Loss: 0.3906340003013611
+Epoch [8/10], Loss: 0.7063]
+Batch 个数 0, 当前Batch Loss: 0.8291199803352356
+Batch 个数 50, 当前Batch Loss: 0.7998924851417542
+Batch 个数 100, 当前Batch Loss: 0.660332202911377
+Batch 个数 150, 当前Batch Loss: 0.6776458024978638
+Batch 个数 200, 当前Batch Loss: 0.5314438343048096
+Batch 个数 250, 当前Batch Loss: 0.45581185817718506
+Batch 个数 300, 当前Batch Loss: 0.5048069357872009
+Batch 个数 350, 当前Batch Loss: 0.6027247309684753
+Epoch [9/10], Loss: 0.6359]
+Batch 个数 0, 当前Batch Loss: 0.5401285290718079
+Batch 个数 50, 当前Batch Loss: 0.6297973990440369
+Batch 个数 100, 当前Batch Loss: 0.402213454246521
+Batch 个数 150, 当前Batch Loss: 0.703717827796936
+Batch 个数 200, 当前Batch Loss: 0.6923548579216003
+Batch 个数 250, 当前Batch Loss: 0.34056341648101807
+Batch 个数 300, 当前Batch Loss: 0.5730504989624023
+Batch 个数 350, 当前Batch Loss: 0.4709726572036743
+Epoch [10/10], Loss: 0.5816]
