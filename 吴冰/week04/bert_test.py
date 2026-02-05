@@ -9,6 +9,7 @@ from transformers import BertTokenizer, BertForSequenceClassification, Trainer, 
 from sklearn.preprocessing import LabelEncoder
 from datasets import Dataset
 import numpy as np
+import joblib
 # from modelscope.msdatasets import MsDataset
 
 # 加载和预处理数据
@@ -101,43 +102,6 @@ trainer = Trainer(
 trainer.train()
 # 在测试集上进行最终评估
 trainer.evaluate()
-
-# trainer 是比较简单，适合训练过程比较规范化的模型
-# 如果我要定制化训练过程，trainer无法满足
-
-
-# ==================================
-#         模型预测
-# ==================================
-
-print("加载训练好的模型用于预测...")
-# 从 `./results` 目录加载训练好的模型和分词器
-# `from_pretrained` 会自动加载目录下的 `config.json` 和 `model.safetensors`
-model_path = "./results"
-tokenizer_loaded = BertTokenizer.from_pretrained(model_path)
-model_loaded = BertForSequenceClassification.from_pretrained(model_path)
-
-# 将模型设置为评估模式
-model_loaded.eval()
-
-# 准备一个新的样本进行测试
-new_text = "茶语时光经典锡兰红茶饮料500ml"
-print(f"新的测试样本: {new_text}")
-
-# 使用分词器对新样本进行编码
-# return_tensors="pt" 表示返回 PyTorch 张量
-inputs = tokenizer_loaded(new_text, return_tensors="pt", padding=True, truncation=True, max_length=64)
-
-# 不需要计算梯度
-with torch.no_grad():
-    # 模型前向传播，得到 logits
-    outputs = model_loaded(**inputs)
-    logits = outputs.logits
-
-# 从 logits 中找到概率最高的类别索引
-predicted_class_id = torch.argmax(logits, dim=1).item()
-
-# 使用之前创建的 LabelEncoder 将数字标签转换回原始文本标签
-predicted_label = lbl.inverse_transform([predicted_class_id])[0]
-
-print(f"模型预测的类别是: {predicted_label}")
+# 保存 LabelEncoder 对象
+joblib.dump(lbl, './results/label_encoder.joblib')
+print("LabelEncoder has been saved to ./results/label_encoder.joblib")
