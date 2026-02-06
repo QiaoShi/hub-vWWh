@@ -1,0 +1,9 @@
+{'eval_loss': '2.886', 'eval_accuracy': '0.02', 'eval_runtime': '1.045', 'eval_samples_per_second': '95.73', 'eval_steps_per_second': '6.701', 'epoch': '1'}
+
+{'eval_loss': '2.562', 'eval_accuracy': '0.31', 'eval_runtime': '1.097', 'eval_samples_per_second': '91.2', 'eval_steps_per_second': '6.384', 'epoch': '2'}
+
+{'eval_loss': '2.077', 'eval_accuracy': '0.69', 'eval_runtime': '1.151', 'eval_samples_per_second': '86.89', 'eval_steps_per_second': '6.082', 'epoch': '3'}
+
+{'eval_loss': '1.39', 'eval_accuracy': '0.89', 'eval_runtime': '1.144', 'eval_samples_per_second': '87.38', 'eval_steps_per_second': '6.117', 'epoch': '4'}
+
+训练4轮，准确率从2%提升到89%
